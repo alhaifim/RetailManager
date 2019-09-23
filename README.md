@@ -1,2 +1,2 @@
 # RetailManager
-A retail management built by Mohammed Al-Haifi
+A Retail Management Built By Mohammed Al-Haifi
